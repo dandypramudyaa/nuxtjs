@@ -2,6 +2,7 @@
   <div>
     <h2>Hello World!</h2>
     <p>Dandy Nuxt.js App</p>
+    <p>Coming very soon.</p>
   </div>  
 </template>
 
